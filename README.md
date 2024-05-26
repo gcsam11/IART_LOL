@@ -10,4 +10,3 @@ This project was made by:
 ## TODO
 
 - Usar Classification Report para os modelos (pycaret)
-- Feature extraction
